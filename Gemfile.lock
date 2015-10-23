@@ -1,0 +1,15 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    jruby-jars (1.7.1)
+    rubydoop (1.2.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jruby-jars (= 1.7.1)
+  rubydoop
+
+BUNDLED WITH
+   1.10.6
