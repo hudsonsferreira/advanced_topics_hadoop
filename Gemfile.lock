@@ -1,15 +1,16 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    jruby-jars (1.7.1)
+    jruby-jars (9.0.3.0)
     rake (10.4.2)
     rubydoop (1.2.1)
 
 PLATFORMS
+  java
   ruby
 
 DEPENDENCIES
-  jruby-jars (= 1.7.1)
+  jruby-jars (= 9.0.3.0)
   rake
   rubydoop
 
